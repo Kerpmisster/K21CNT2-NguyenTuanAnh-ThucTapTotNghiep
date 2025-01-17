@@ -5,16 +5,1152 @@
       "PackagePath": "staticwebassets\\DevXuongMoc.e00sffuq12.bundle.scp.css"
     },
     {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\datepicker.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\css\\fonts.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\css\\icofont.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-Bold.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-Bold.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-BoldItalic.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-BoldItalic.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-Light.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-Light.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-LightItalic.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-LightItalic.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-Medium.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-Medium.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-Thin.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-Thin.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\Gotham-Ultra.otf",
+      "PackagePath": "staticwebassets\\fonts\\Gotham-Ultra.otf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\fonts\\icofont.eot"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\fonts\\icofont.svg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icofont.ttf"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\icofont.woff2"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\Banner\\banner.png",
+      "PackagePath": "staticwebassets\\img\\Banner\\banner.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\DOITAC.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\DOITAC.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\GIOITHIEU.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\GIOITHIEU.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\LIENHE.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\LIENHE.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner.html",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner.html"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\01.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\02.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\05.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\06.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\all.min.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\all.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\bao-hanh.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\bootstrap.bundle.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\bootstrap.bundle.min.js.download"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\chat-luong.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\chatluong.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\chinh-sach.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ghe.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ghe.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\jquery.slim.min.js.download",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\jquery.slim.min.js.download"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\logo.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\main.1c2a357f.js.download",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\main.1c2a357f.js.download"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\main.a567d279.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\main.a567d279.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\marvella.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\marvella.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\melissa.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\melissa.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\san-pham.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\sheraton.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\sheraton.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\slick-theme.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\slick.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\slick.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\style.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\style.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\uicons-bold-straight.css",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\uicons-bold-straight.css"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\banner_files\\vinpearl.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\banner_files\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\bao-hanh.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\bao-hanh.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\bg-about-us.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\bg-about-us.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\bgr.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\bgr.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\chat-luong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\chat-luong.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\chatluong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\chatluong.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\chinh-sach.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\chinh-sach.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ghe.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ghe.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon_email_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon_email_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon_fb_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon_fb_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\icon_zalo_pro.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\icon_zalo_pro.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\lienhe-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\lienhe-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\logo.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\logo3.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\marvella.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\marvella.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\san-pham.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\san-pham.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\sheraton (1).png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\sheraton (1).png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\sheraton.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\sheraton.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\sp2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\sp2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\su-menh1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\su-menh1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\su-menh2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\su-menh2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\su-menh3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\su-menh3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\su-menh4.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\su-menh4.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\tamnhin.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\tamnhin.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\thanhlap.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\thanhlap.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\trai-nghiem1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\trai-nghiem1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ve-chung-toi-1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ve-chung-toi-1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ve-chung-toi-2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ve-chung-toi-2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ve-chung-toi-3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ve-chung-toi-3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ve-chung-toi-4.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ve-chung-toi-4.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\ve-chung-toi.jpg",
+      "PackagePath": "staticwebassets\\img\\anhcat\\ve-chung-toi.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\anhcat\\vinpearl.png",
+      "PackagePath": "staticwebassets\\img\\anhcat\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\img\\author1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\img\\author2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\img\\author3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\avatar\\avatar-1.png",
+      "PackagePath": "staticwebassets\\img\\avatar\\avatar-1.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\background\\admin-login.jpg",
+      "PackagePath": "staticwebassets\\img\\background\\admin-login.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\blockqoute-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-sidebar3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bread-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\call-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\category\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\category\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\category\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\client-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client1.png",
+      "PackagePath": "staticwebassets\\img\\client1.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client2.png",
+      "PackagePath": "staticwebassets\\img\\client2.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client3.png",
+      "PackagePath": "staticwebassets\\img\\client3.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client4.png",
+      "PackagePath": "staticwebassets\\img\\client4.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\client5.png",
+      "PackagePath": "staticwebassets\\img\\client5.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\img\\contact-img.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\4.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-cau-thang.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-cau-thang.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-classroom.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-classroom.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-do-trang-tri.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-do-trang-tri.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-phong-bep.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-phong-bep.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-phong-khach.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-phong-khach.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-phong-ngu.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-phong-ngu.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-phong-tam.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-phong-tam.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-tre-em.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-tre-em.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\danh-muc\\icon-van-phong.png",
+      "PackagePath": "staticwebassets\\img\\danh-muc\\icon-van-phong.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\marvella.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\marvella.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\melissa.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\melissa.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\muong-thanh.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\muong-thanh.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\sheraton.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\sheraton.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\sunrise-sapa.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\sunrise-sapa.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\the-coffee-house.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\the-coffee-house.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\doi-tac\\vinpearl.png",
+      "PackagePath": "staticwebassets\\img\\doi-tac\\vinpearl.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\fun-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\logo-main.jpg",
+      "PackagePath": "staticwebassets\\img\\logo-main.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\logo\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\logo\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\logo\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\map-marker.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\img\\mission-img.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\news\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\01.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\news\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\02.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\news\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\05.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\news\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\06.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\img\\pf1.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\img\\pf2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\img\\pf3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\img\\pf4.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\009.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\009.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\cau-thang\\019.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cau-thang\\019.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\do-trang-tri\\020.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\do-trang-tri\\020.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-bep\\004.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-bep\\004.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-bep\\009.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-bep\\009.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001a.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001a.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001b.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001b.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001c.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001c.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001d.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001d.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\001e.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\001e.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\002.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\002.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\008.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\008.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\009.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\009.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\011.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\011.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\012.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\012.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\014.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\014.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-khach\\015.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-khach\\015.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-ngu\\003.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-ngu\\003.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-ngu\\004.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-ngu\\004.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-ngu\\007.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-ngu\\007.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-ngu\\013.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-ngu\\013.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-tam\\005.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-tam\\005.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-tam\\006.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-tam\\006.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-tam\\007.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-tam\\007.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\phong-tam\\008.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\phong-tam\\008.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\tre-em\\016.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tre-em\\016.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\tre-em\\017.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tre-em\\017.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\tre-em\\018.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tre-em\\018.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\products\\van-phong\\018.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\van-phong\\018.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\img\\section-img.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\img\\slider.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\img\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\img\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\testi-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-1.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-1.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-2.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-2.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-3.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-3.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-4.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-4.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-5.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-5.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\tin-tuc\\tintuc-6.png",
+      "PackagePath": "staticwebassets\\img\\tin-tuc\\tintuc-6.png"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\colors.js",
+      "PackagePath": "staticwebassets\\js\\colors.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\js\\map-active.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\niceselect.js",
+      "PackagePath": "staticwebassets\\js\\niceselect.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
       "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\steller.js",
+      "PackagePath": "staticwebassets\\js\\steller.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
     },
     {
       "Id": "D:\\DEV2409GH-T2356\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\K21CNT2-NguyenTuanAnh-ThucTapTotNghiep\\DevXuongMoc\\DevXuongMoc\\wwwroot\\lib\\bootstrap\\LICENSE",

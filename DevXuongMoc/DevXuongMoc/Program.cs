@@ -1,3 +1,6 @@
+using DevXuongMoc.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace DevXuongMoc
 {
     public class Program
@@ -5,9 +8,21 @@ namespace DevXuongMoc
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            var connectionString = builder.Configuration.GetConnectionString("AppConnection");
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            //builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+            //.AddCookie();
+            builder.Services.AddDbContext<NoiThatHoangHoanContext>(x => x.UseSqlServer(connectionString));
+            builder.Services.AddDistributedMemoryCache();
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddSession(options =>
+            {
+                options.IdleTimeout = TimeSpan.FromSeconds(60);
+                options.Cookie.HttpOnly = true;
+                options.Cookie.IsEssential = true;
+                options.Cookie.Name = "DevXuongMoc";
+            });
 
             var app = builder.Build();
 
@@ -21,10 +36,14 @@ namespace DevXuongMoc
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseSession();
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.MapControllerRoute(
+                name: "areas",
+                pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
             app.MapControllerRoute(
                 name: "default",
